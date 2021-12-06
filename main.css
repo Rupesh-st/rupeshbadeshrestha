@@ -51,8 +51,8 @@ body {
 }
 #drone {
     float: center;    
-    width: 20%;
-     margin-left: 40%;
+    width: 15%;
+     margin-left: 42.5%;
     margin-top: 20px;
     }
 #Certificate {
@@ -241,6 +241,10 @@ body {
     font-size: 11px;
      }
      #profilepic {
+     width: 30%;
+     margin-left: 35%;
+     }
+     #drone {
      width: 30%;
      margin-left: 35%;
      }
